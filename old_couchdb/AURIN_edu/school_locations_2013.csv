@@ -1,0 +1,315 @@
+﻿school_type, address_postcode,school_name, postal_address_line_1, school_status, postal_town, address_state, postal_postcode, lga_code, lga_name, address_line_1, postal_state, school_no, address_town, education_sector, full_phone_no, objectid
+Primary,3015,Newport Lakes Primary School,Elizabeth Street ,O,NEWPORT,VIC,3015,23110,Hobsons Bay (C),Elizabeth Street ,VIC,113,Newport,Government,03 9391 8942 ,14
+Primary,3031,Flemington Primary School,P O Box 7,O,FLEMINGTON,VIC,3031,25060,Moonee Valley (C),Mt Alexander Road,VIC,250,Flemington,Government,03 9376 7137 ,30
+Primary,3011,Footscray Primary School ,P O Box 6019 ,O,WEST FOOTSCRAY,VIC,3012,24330,Maribyrnong (C),Cnr Geelong Road & Barkly St,VIC,253,Footscray,Government,03 9687 1910 ,31
+Primary,3191,Sandringham Primary School ,29A Bamfield Street,O,SANDRINGHAM,VIC,3191,20910,Bayside (C),29A Bamfield Street,VIC,267,Sandringham,Government,03 9598 1488 ,34
+Primary,3065,Fitzroy Primary School,P O Box 150,O,FITZROY,VIC,3065,27350,Yarra (C),319 George Street,VIC,450,Fitzroy,Government,03 9417 4222 ,53
+Primary,3040,Essendon Primary School,38 Raleigh Street,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),38 Raleigh Street,VIC,483,Essendon ,Government,03 9370 7816 ,59
+Primary,3058,Coburg Primary School,98 Bell Street,O,COBURG ,VIC,3058,25250,Moreland (C) ,98 Bell Street,VIC,484,Coburg ,Government,03 9354 9332 ,60
+Primary,3141,South Yarra Primary School ,601 Punt Road,O,SOUTH YARRA,VIC,3141,24600,Melbourne (C),601 Punt Road,VIC,583,South Yarra,Government,03 9866 3424 ,74
+Primary,3124,Camberwell Primary School,290 Camberwell Road,O,CAMBERWELL,VIC,3124,21110,Boroondara (C),290 Camberwell Road,VIC,888,Camberwell,Government,03 9882 4663 ,129
+Primary,3103,Balwyn Primary School,86B Balwyn Road,O,BALWYN ,VIC,3103,21110,Boroondara (C),86B Balwyn Road,VIC,1026,Balwyn ,Government,03 9836 7121 ,146
+Primary,3101,Kew Primary School,Peel Street,O,KEW,VIC,3101,21110,Boroondara (C),Peel Street,VIC,1075,Kew,Government,03 9853 8325 ,157
+Primary,3146,Glen Iris Primary School ,170 Glen Iris Road,O,GLEN IRIS,VIC,3146,21110,Boroondara (C),170 Glen Iris Road,VIC,1148,Glen Iris,Government,03 9885 3624 ,183
+Primary,3206,Albert Park Primary School ,Bridport Street,O,ALBERT PARK,VIC,3206,25900,Port Phillip (C) ,Bridport Street,VIC,1181,Albert Park,Government,03 9699 9090 ,189
+Primary,3016,Williamstown Primary School,Cnr. Electra & Parker Street,O,WILLIAMSTOWN ,VIC,3016,23110,Hobsons Bay (C),Cecil Street ,VIC,1183,Williamstown ,Government,03 9397 1248 ,190
+Primary,3054,Carlton North Primary School,60 LEE STREET,O,CARLTON NORTH,VIC,3054,27350,Yarra (C),60 Lee Street,VIC,1252,Carlton North,Government,03 9347 4822 ,201
+Primary,3068,Clifton Hill Primary School,P O Box 468,O,CLIFTON HILL ,VIC,3068,27350,Yarra (C),185 Gold St,VIC,1360,Clifton Hill ,Government,03 9489 8333 ,219
+Primary,3070,Northcote Primary School ,P O Box 210,O,NORTHCOTE,VIC,3070,21890,Darebin (C),33 Helen Street,VIC,1401,Northcote,Government,03 9481 0009 ,230
+Primary,3051,North Melbourne Primary School ,210 Errol St ,O,NORTH MELBOURNE,VIC,3051,24600,Melbourne (C),210 Errol Street ,VIC,1402,North Melbourne,Government,03 9329 6902 ,231
+Primary,3016,Williamstown North Primary School,133 MELBOURNE RD ,O,WILLIAMSTOWN NORTH,VIC,3016,23110,Hobsons Bay (C),133 Melbourne Road,VIC,1409,Williamstown ,Government,03 9397 5722 ,234
+Primary,3182,St Kilda Primary School,2B BRIGHTON ROAD ,O,ST KILDA ,VIC,3182,25900,Port Phillip (C) ,2B Brighton Road ,VIC,1479,St Kilda ,Government,03 9534 3993 ,252
+Primary,3068,Fitzroy North Primary School,Fergie Street,O,FITZROY NORTH,VIC,3068,27350,Yarra (C),Fergie Street,VIC,1490,Fitzroy North,Government,03 9481 5860 ,257
+Primary,3186,Brighton Primary School,59 Wilson Street ,O,BRIGHTON ,VIC,3186,20910,Bayside (C),59 Wilson Street ,VIC,1542,Brighton ,Government,03 9592 0177 ,264
+Pri/Sec,3144,Malvern Central School,Spring Road,O,MALVERN,VIC,3144,26350,Stonnington (C),Spring Road,VIC,1604,Malvern,Government,03 8823 9500 ,286
+Primary,3067,Abbotsford Primary School,Lithgow Street,O,ABBOTSFORD,VIC,3067,27350,Yarra (C),Lithgow Street,VIC,1886,Abbotsford,Government,03 9428 5977 ,328
+Primary,3181,Stonnington Primary School ,Hornby St,O,WINDSOR,VIC,3181,26350,Stonnington (C),Hornby Street,VIC,1896,Windsor,Government,03 9521 3711 ,330
+Primary,3073,Reservoir Primary School ,P O Box 69,O,RESERVOIR,VIC,3073,21890,Darebin (C),Duffy Street ,VIC,3960,Reservoir,Government,03 9460 5798 ,637
+Primary,3039,Moonee Ponds Primary School,Wilson Street,O,Moonee Ponds ,VIC,3039,25060,Moonee Valley (C),Wilson Street,VIC,3987,Moonee Ponds ,Government,03 9375 2511 ,644
+Primary,3013,Kingsville Primary School,58 Bishop Street ,O,YARRAVILLE,VIC,3013,24330,Maribyrnong (C),58 Bishop Street ,VIC,3988,Yarraville,Government,03 9314 5869 ,645
+Primary,3041,Essendon North Primary School,112 Keilor Road,O,Essendon North,VIC,3041,25060,Moonee Valley (C),112 Keilor Road,VIC,4015,Essendon North,Government,03 9379 3979 ,647
+Primary,3032,Ascot Vale West Primary School ,P O Box 154,O,Ascot Vale,VIC,3032,25060,Moonee Valley (C),Langs Rd ,VIC,4025,Ascot Vale,Government,03 9370 8784 ,648
+Primary,3124,Hartwell Primary School,Milverton St ,O,CAMBERWELL,VIC,3124,21110,Boroondara (C),Milverton St ,VIC,4055,Camberwell,Government,03 9889 4012 ,650
+Primary,3183,Ripponlea Primary School ,25 Carrington Grove,O,ST KILDA EAST,VIC,3183,22310,Glen Eira (C),25 Carrington Grove,VIC,4087,St Kilda East,Government,03 9527 5728 ,655
+Primary,3145,Lloyd Street Primary School,6- 10 Lloyd Street,O,MALVERN EAST ,VIC,3145,26350,Stonnington (C),Lloyd Street ,VIC,4139,Malvern East ,Government,03 9573 4600 ,661
+Primary,3044,Westbreen Primary School ,2-10 Pascoe Street,O,Pascoe Vale,VIC,3044,25250,Moreland (C) ,2-10 Pascoe Street,VIC,4158,Pascoe Vale,Government,03 9306 9481 ,663
+Primary,3011,Footscray North Primary School ,P O Box 4253 ,O,WEST FOOTSCRAY,VIC,3012,24330,Maribyrnong (C),14 Rosamond Road ,VIC,4160,Footscray,Government,03 9317 9047 ,665
+Primary,3146,Camberwell South Primary School,PEATE AVENUE ,O,GLEN IRIS,VIC,3146,21110,Boroondara (C),Peate Avenue ,VIC,4170,Glen Iris,Government,03 9889 4295 ,668
+Primary,3166,Hughesdale Primary School,Brine Street ,O,HUGHESDALE,VIC,3166,24970,Monash (C),Brine Street ,VIC,4176,Hughesdale,Government,03 9570 4808 ,670
+Primary,3070,Westgarth Primary School ,P O Box 59,O,NORTHCOTE,VIC,3070,21890,Darebin (C),45 Brooke St & 311 Clarke St,VIC,4177,Northcote,Government,03 9481 5577 ,671
+Primary,3054,Princes Hill Primary School,280 Pigdon Street,O,CARLTON NORTH,VIC,3054,27350,Yarra (C),280 Pigdon Street,VIC,2955,Carlton North,Government,03 9389 5300 ,488
+Special,3058,Coburg Special Developmental School,Cnr Bishop & Gaffney Streets,O,COBURG ,VIC,3058,25250,Moreland (C) ,Cnr Bishop & Gaffney Streets,VIC,5261,Coburg ,Government,03 9354 4366 ,1050
+Primary,3121,Richmond Primary School,Brighton Street,O,RICHMOND ,VIC,3121,27350,Yarra (C),Brighton Street,VIC,5269,Richmond ,Government,03 9428 1909 ,1054
+Primary,3121,Yarra Primary School ,Davison Street,O,RICHMOND ,VIC,3121,27350,Yarra (C),Davison Street,VIC,5271,Richmond ,Government,03 9428 3286 ,1055
+Special,3013,Yarraville Special Developmental School,P O Box 88,O,KINGSVILLE,VIC,3012,24330,Maribyrnong (C),117 Blackwood Street ,VIC,5278,Yarraville,Government,03 9314 4919 ,1060
+Primary,3028,Altona Green Primary School,240 Victoria Street,O,ALTONA MEADOWS,VIC,3028,23110,Hobsons Bay (C),240 Victoria Street,VIC,5287,Altona Meadows,Government,03 9360 0777 ,1068
+Primary,3104,Boroondara Park Primary School ,40 ALMOND STREET ,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),40 Almond Street ,VIC,5288,Balwyn North ,Government,03 9857 5157 ,1069
+Primary,3011,Footscray City Primary School,10 Hyde Street,O,Footscray,VIC,3011,24330,Maribyrnong (C),10 Hyde Street,VIC,1912,Footscray,Government,03 9687 2826 ,335
+Primary,3186,Brighton Beach Primary School,P O Box 9064 ,O,BRIGHTON ,VIC,3186,20910,Bayside (C),19 Windermere Crescent,VIC,2048,Brighton ,Government,03 9591 0888 ,360
+Primary,3031,Kensington Primary School,McCracken Street ,O,KENSINGTON,VIC,3031,25060,Moonee Valley (C),Mccracken Street ,VIC,2374,Kensington,Government,03 9376 6013 ,416
+Primary,3182,St Kilda Park Primary School,68 Fitzroy Street,O,ST KILDA ,VIC,3182,25900,Port Phillip (C) ,68 Fitzroy Street,VIC,2460,St Kilda ,Government,03 8598 6444 ,425
+Primary,3145,Malvern Primary School,17 Tooronga Road ,O,MALVERN EAST ,VIC,3145,26350,Stonnington (C),17 Tooronga Road ,VIC,2586,Malvern East ,Government,03 9571 6281 ,438
+Primary,3053,Carlton Gardens Primary School ,215 Rathdowne St ,O,CARLTON,VIC,3053,24600,Melbourne (C),215 Rathdowne Street ,VIC,2605,Carlton,Government,03 9663 6502 ,440
+Primary,3032,Ascot Vale Primary School,Bank Street,O,ASCOT VALE,VIC,3032,25060,Moonee Valley (C),Bank Street,VIC,2608,Ascot Vale,Government,03 9370 6507 ,441
+Primary,3143,Armadale Primary School,9-23 Densham Road,O,ARMADALE ,VIC,3143,26350,Stonnington (C),9-23 Densham Road,VIC,2634,Armadale ,Government,03 9822 7003 ,445
+Primary,3078,Fairfield Primary School ,P O Box 123,O,FAIRFIELD,VIC,3078,21890,Darebin (C),Langridge Street ,VIC,2711,Fairfield,Government,03 9489 2966 ,455
+Primary,3057,Brunswick South Primary School ,56 Brunswick Road,O,BRUNSWICK EAST,VIC,3057,25250,Moreland (C) ,56 Brunswick Road,VIC,2743,Brunswick East,Government,03 9380 1231 ,460
+Special,3205,Montague Continuing Education Centre,100 Montague Street,O,SOUTH MELBOURNE,VIC,3205,25900,Port Phillip (C) ,100 Montague Street,VIC,2784,South Melbourne,Government,03 9690 3535 ,464
+Primary,3206,Middle Park Primary School ,194 Richardson Street,O,MIDDLE PARK,VIC,3206,25900,Port Phillip (C) ,194 Richardson Street,VIC,2815,Middle Park,Government,03 9690 1336 ,468
+Primary,3013,Yarraville West Primary School ,P O Box 138,O,YARRAVILLE,VIC,3013,24330,Maribyrnong (C),30 Powell Street ,VIC,2832,Yarraville,Government,03 9314 3816 ,470
+Primary,3058,Moreland Primary School,P O Box 10,O,MORELAND ,VIC,3058,25250,Moreland (C) ,157-163 Moreland Road,VIC,2837,Coburg ,Government,03 9386 2510 ,471
+Primary,3186,Elsternwick Primary School ,Murphy Street,O,BRIGHTON ,VIC,3186,20910,Bayside (C),Murphy Street,VIC,2870,Brighton ,Government,03 8534 6100 ,474
+Primary,3163,Carnegie Primary School,51 Truganini Road,O,CARNEGIE ,VIC,3163,22310,Glen Eira (C),51 Truganini Road,VIC,2897,Carnegie ,Government,03 9571 2662 ,476
+Primary,3039,Moonee Ponds West Primary School,150 Athol Street ,O,MOONEE PONDS ,VIC,3039,25060,Moonee Valley (C),150 Athol Street ,VIC,2901,Moonee Ponds ,Government,03 9370 6875 ,479
+Primary,3207,Port Melbourne Primary School,415 Graham Street,O,PORT MELBOURNE,VIC,3207,25900,Port Phillip (C) ,415 Graham Street,VIC,2932,Port Melbourne,Government,03 9646 1001 ,485
+Primary,3204,Ormond Primary School,P O Box 465,O,BENTLEIGH,VIC,3204,22310,Glen Eira (C),Cnr Murray & Wheatley Roads,VIC,3074,Ormond ,Government,03 9578 1327 ,507
+Primary,3044,Pascoe Vale Primary School ,362 Gaffney Street,O,PASCOE VALE,VIC,3044,25250,Moreland (C) ,362 Gaffney Street,VIC,3081,Pascoe Vale,Government,03 9354 1611 ,510
+Primary,3068,Merri Creek Primary School ,Miller Street,O,FITZROY NORTH,VIC,3068,27350,Yarra (C),Miller Street,VIC,3110,Fitzroy North,Government,03 9481 0177 ,514
+Primary,3068,Spensley Street Primary School ,193 Spensley Street,O,CLIFTON HILL ,VIC,3068,27350,Yarra (C),193 Spensley Street,VIC,3146,Clifton Hill ,Government,03 9481 4666 ,519
+Primary,3102,Kew East Primary School,35 Kitchener Street,O,Kew East ,VIC,3102,21110,Boroondara (C),35 Kitchener Street,VIC,3161,Kew East ,Government,03 9859 2903 ,520
+Primary,3057,Brunswick East Primary School,195a Stewart Street,O,BRUNSWICK EAST,VIC,3057,25250,Moreland (C) ,195a Stewart Street,VIC,3179,Brunswick East,Government,03 9387 3361 ,523
+Primary,3163,Murrumbeena Primary School ,Hobart Road,O,MURRUMBEENA,VIC,3163,22310,Glen Eira (C),Hobart Road,VIC,3449,Murrumbeena,Government,03 9568 1300 ,557
+Primary,3126,Canterbury Primary School,Molesworth Street,O,CANTERBURY,VIC,3126,21110,Boroondara (C),Molesworth Street,VIC,3572,Canterbury,Government,03 9836 4537 ,571
+Primary,3055,Brunswick North Primary School ,Pearson Street,O,BRUNSWICK WEST,VIC,3055,25250,Moreland (C) ,Pearson Street,VIC,3585,Brunswick West,Government,03 9383 1400 ,574
+Primary,3060,Fawkner Primary School,P O Box 123,O,FAWKNER,VIC,3060,25250,Moreland (C) ,Lorne Street ,VIC,3590,Fawkner,Government,03 9357 3579 ,575
+Primary,3193,Black Rock Primary School,P O Box 168,O,BLACK ROCK,VIC,3193,20910,Bayside (C),Arkaringa Crescent,VIC,3631,Black Rock,Government,03 9598 2293 ,582
+Primary,3015,Spotswood Primary School ,P O Box 2135 ,O,Spotswood,VIC,3015,23110,Hobsons Bay (C),Melbourne Road,VIC,3659,Spotswood,Government,03 9391 1323 ,586
+Primary,3103,Deepdene Primary School,958a Burke Road,O,BALWYN ,VIC,3103,21110,Boroondara (C),958a Burke Road,VIC,3680,Balwyn ,Government,03 9817 1917 ,589
+Primary,3163,Glen Huntly Primary School ,P O Box 62,O,GLEN HUNTLY,VIC,3163,22310,Glen Eira (C),Grange Road,VIC,3703,Glen Huntly,Government,03 9571 2933 ,595
+Primary,3188,Hampton Primary School,P O Box 97,O,Hampton,VIC,3188,20910,Bayside (C),528 Hampton Street,VIC,3754,Hampton,Government,03 9598 1412 ,603
+Special,3004,Victorian College For The Deaf ,P O Box 6306 ,O,St Kilda Rd Central MELBOURNE,VIC,8008,24600,Melbourne (C),597 St Kilda Road,VIC,3774,Melbourne,Government,03 9510 1706 ,604
+Primary,3161,Caulfield Junior College ,186 Balaclava Road,O,CAULFIELD NORTH,VIC,3161,22310,Glen Eira (C),186 Balaclava Road,VIC,3820,Caulfield North,Government,03 9509 6872 ,610
+Primary,3012,Footscray West Primary School,Argyle Street,O,WEST FOOTSCRAY,VIC,3012,24330,Maribyrnong (C),Argyle Street,VIC,3890,West Footscray,Government,03 9687 1535 ,616
+Primary,3187,Gardenvale Primary School,66 Landcox Street,O,BRIGHTON EAST,VIC,3187,20910,Bayside (C),66 Landcox Street,VIC,3897,Brighton East,Government,03 9596 2871 ,618
+Primary,3193,Beaumaris Primary School ,P O Box 6140 ,O,Cromer ,VIC,3193,20910,Bayside (C),79-99 Dalgetty Road,VIC,3899,Beaumaris,Government,03 9589 2619 ,619
+Primary,3018,Altona Primary School,P O Box 127,O,ALTONA ,VIC,3018,23110,Hobsons Bay (C),109 Blyth Street ,VIC,3923,Altona ,Government,03 9398 2925 ,623
+Primary,3058,Coburg West Primary School ,REYNARD STREET,O,COBURG ,VIC,3058,25250,Moreland (C) ,Reynard Street,VIC,3941,Coburg ,Government,03 9386 1286 ,631
+Primary,3184,Elwood Primary School,49 Scott Street,O,ELWOOD ,VIC,3184,25900,Port Phillip (C) ,49 Scott Street,VIC,3942,Elwood ,Government,03 9531 2762 ,632
+Primary,3040,Aberfeldie Primary School,1 Doone Street,O,Essendon ,VIC,3040,25060,Moonee Valley (C),1 Doone Street,VIC,4220,Essendon ,Government,03 9337 8084 ,678
+Primary,3055,Brunswick South West Primary School,South Daly Street,O,BRUNSWICK WEST,VIC,3055,25250,Moreland (C) ,South Daly Street,VIC,4304,Brunswick West,Government,03 9387 6886 ,687
+Primary,3053,Carlton Primary School,Cnr Palmerston & Drummond Sts,O,CARLTON,VIC,3053,24600,Melbourne (C),Cnr Palmerston & Drummond Sts,VIC,4980,Carlton,Government,03 9347 6022 ,882
+Secondary,3165,Bentleigh Secondary College,P O Box 186,O,BENTLEIGH EAST,VIC,3165,22310,Glen Eira (C),Vivien St,VIC,7255,Bentleigh East,Government,03 9579 1044 ,1237
+Secondary,3042,Rosehill Secondary College ,Sapphire Street,O,NIDDRIE,VIC,3042,25060,Moonee Valley (C),Sapphire Street,VIC,7275,Niddrie,Government,03 9337 2488 ,1239
+Secondary,3006,Victorian College Of The Arts Secondary School,57 Miles Street,O,SOUTHBANK,VIC,3006,24600,Melbourne (C),57 Miles Street,VIC,7384,Southbank,Government,03 8644 8644 ,1243
+Secondary,3104,Balwyn High School,Buchanan Avenue,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),Buchanan Avenue,VIC,7550,Balwyn North ,Government,03 9819 7911 ,1250
+Primary,3162,Caulfield South Primary School,24 Bundeera Road ,O,CAULFIELD SOUTH,VIC,3162,22310,Glen Eira (C),24 Bundeera Road ,VIC,4315,Caulfield South,Government,03 9578 3718 ,690
+Primary,3147,Ashburton Primary School,FAKENHAM ROAD,O,ASHBURTON,VIC,3147,21110,Boroondara (C),Fakenham Road,VIC,4317,Ashburton,Government,03 9885 2559 ,691
+Primary,3204,Bentleigh West Primary School,23 Brewer Road,O,BENTLEIGH,VIC,3204,22310,Glen Eira (C),23 Brewer Road,VIC,4318,Bentleigh,Government,03 9557 1228 ,692
+Primary,3204,Mckinnon Primary School,P O BOX 8,O,ORMOND ,VIC,3204,22310,Glen Eira (C),253 Tucker Road,VIC,4366,Ormond ,Government,03 9578 1851 ,697
+Primary,3055,Brunswick North West Primary School,Culloden Street,O,BRUNSWICK WEST,VIC,3055,25250,Moreland (C) ,Culloden Street,VIC,4399,Brunswick West,Government,03 9386 4624 ,703
+Primary,3191,Sandringham East Primary School,P O Box 4232 ,O,Black Rock North ,VIC,3193,20910,Bayside (C),Holloway Road,VIC,4429,Sandringham,Government,03 9598 1704 ,707
+Primary,3018,Seaholme Primary School,Box 171,O,ALTONA ,VIC,3018,23110,Hobsons Bay (C),Cnr Millers Rd & Civic Parade,VIC,4440,Seaholme ,Government,03 9398 2806 ,708
+Primary,3058,Coburg North Primary School,P O Box 196,O,Pascoe Vale South,VIC,3044,25250,Moreland (C) ,180 O'Hea Street ,VIC,4543,Coburg ,Government,03 9354 1660 ,711
+Primary,3104,Balwyn North Primary School,Buchanan Avenue,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),Buchanan Avenue,VIC,4638,Balwyn North ,Government,03 9859 4258 ,715
+Primary,3147,Solway Primary School,Winton Road,O,ASHBURTON,VIC,3147,21110,Boroondara (C),Winton Road,VIC,4641,Ashburton,Government,03 9885 2421 ,716
+Primary,3015,Newport Gardens Primary School ,P O Box 3183 ,O,NEWPORT,VIC,3015,23110,Hobsons Bay (C),Cnr Woods St & Maddox Rd ,VIC,4665,Newport,Government,03 9391 2168 ,726
+Primary,3145,Malvern Valley Primary School,Abbotsford Avenue,O,MALVERN EAST ,VIC,3145,26350,Stonnington (C),Abbotsford Avenue,VIC,4669,Malvern East ,Government,03 9569 5820 ,728
+Special,3103,Belmore School,49 Stroud Street ,O,BALWYN ,VIC,3103,21110,Boroondara (C),49 Stroud Street ,VIC,4675,Balwyn ,Government,03 9859 8762 ,730
+Special,3070,Croxton Special School,159-165 Beaconsfield Parade,O,NORTHCOTE,VIC,3070,21890,Darebin (C),159-165 Beaconsfield Parade,VIC,4679,Northcote,Government,03 9482 5482 ,731
+Primary,3073,Reservoir East Primary School,Boldrewood Parade,O,RESERVOIR,VIC,3073,21890,Darebin (C),Boldrewood Parade,VIC,4686,Reservoir,Government,03 9460 1569 ,736
+Primary,3204,Tucker Road Bentleigh Primary School,P O Box 1341 ,O,MOORABBIN,VIC,3189,22310,Glen Eira (C),16 Tucker Road,VIC,4687,Bentleigh,Government,03 9557 2044 ,737
+Primary,3104,Greythorn Primary School ,Reading Avenue,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),Reading Avenue,VIC,4694,Balwyn North ,Government,03 9857 9762 ,742
+Primary,3044,Pascoe Vale South Primary School,411 - 429 Reynard Street ,O,PASCOE VALE SOUTH,VIC,3044,25250,Moreland (C) ,411 - 429 Reynard Street ,VIC,4704,Pascoe Vale South,Government,03 9386 4301 ,748
+Primary,3073,Reservoir West Primary School,Carrington Road,O,RESERVOIR,VIC,3073,21890,Darebin (C),Carrington Road,VIC,4711,Reservoir,Government,03 9478 8211 ,751
+Primary,3165,Coatesville Primary School ,21 Mackie Road,O,BENTLEIGH EAST,VIC,3165,22310,Glen Eira (C),21 Mackie Road,VIC,4712,Bentleigh East,Government,03 9570 1652 ,752
+Primary,3046,Oak Park Primary School,Willett Avenue,O,Oak Park ,VIC,3046,25250,Moreland (C) ,Willett Avenue,VIC,4721,Oak Park ,Government,03 9306 9182 ,758
+Primary,3044,Pascoe Vale North Primary School,Kent Road,O,PASCOE VALE,VIC,3044,25250,Moreland (C) ,Kent Road,VIC,4731,Pascoe Vale,Government,03 9354 3343 ,763
+Primary,3104,Belle Vue Primary School ,20 Highview Road ,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),20 Highview Road ,VIC,4733,Balwyn North ,Government,03 9859 6123 ,764
+Primary,3165,Valkstone Primary School ,P O Box 101,O,BENTLEIGH EAST,VIC,3165,22310,Glen Eira (C),Valkstone Street ,VIC,4778,Bentleigh East,Government,03 9570 3986 ,786
+Primary,3013,Wembley Primary School,32 St Leonards Ave,O,YARRAVILLE,VIC,3013,24330,Maribyrnong (C),32 St Leonards Ave,VIC,4788,Yarraville,Government,03 9314 7054 ,788
+Special,3012,Rosamond Special School,P O Box 4255 ,O,WEST FOOTSCRAY,VIC,3012,24330,Maribyrnong (C),15 Rosamond Road ,VIC,4792,Maidstone,Government,03 9318 4511 ,789
+Primary,3193,Beaumaris North Primary School ,Wood Street,O,BEAUMARIS,VIC,3193,20910,Bayside (C),Wood Street,VIC,4803,Beaumaris,Government,03 9589 5449 ,792
+Primary,3046,Glenroy West Primary School,P O Box 547,O,GLENROY,VIC,3046,25250,Moreland (C) ,York Street,VIC,4809,Glenroy,Government,03 9306 8955 ,796
+Primary,3034,Avondale Primary School,P O Box 8,O,AVONDALE HEIGHTS ,VIC,3034,25060,Moonee Valley (C),Clarendon St ,VIC,4812,Avondale Heights ,Government,03 9318 1755 ,799
+Primary,3083,Kingsbury Primary School ,1A Maryborough Ave,O,KINGSBURY,VIC,3083,21890,Darebin (C),1A Maryborough Avenue,VIC,4845,Kingsbury,Government,03 9462 2711 ,813
+Special,3204,Katandra School,P O Box 298,O,ORMOND ,VIC,3204,22310,Glen Eira (C),2 Walsh Street,VIC,4846,Ormond ,Government,03 9578 6991 ,814
+Primary,3060,Moomba Park Primary School ,P O Box 85,O,FAWKNER,VIC,3060,25250,Moreland (C) ,111 Anderson Road,VIC,4876,Fawkner,Government,03 9359 2028 ,828
+Special,3046,Glenroy Specialist School,208 Hilton St,O,GLENROY,VIC,3046,25250,Moreland (C) ,208 Hilton Street,VIC,4915,Glenroy,Government,03 9304 2263 ,848
+Special,3188,Berendale School ,P O Box 2073 ,O,Moorabbin,VIC,3189,20910,Bayside (C),2 Berend Street,VIC,4928,Hampton East ,Government,03 9555 6141 ,856
+Primary,3025,Altona North Primary School,P O Box 218,O,ALTONA NORTH ,VIC,3025,23110,Hobsons Bay (C),51 Cresser Street,VIC,4931,Altona North ,Government,03 9391 4572 ,857
+Primary,3121,Richmond West Primary School,P O Box 404,O,RICHMOND ,VIC,3121,27350,Yarra (C),25 Lennox Street ,VIC,5044,Richmond ,Government,03 9427 8736 ,920
+Primary,3031,Debney Meadows Primary School,Victoria St. ,O,FLEMINGTON,VIC,3031,25060,Moonee Valley (C),100 Victoria Street,VIC,5068,Flemington,Government,03 9376 1570 ,933
+Special,3032,Ascot Vale Special School,1 Tasma Street,O,ASCOT VALE,VIC,3032,25060,Moonee Valley (C),1 Tasma Street,VIC,5109,Ascot Vale,Government,03 9370 8906 ,954
+Special,3207,Port Phillip Specialist School ,Cnr Nott & Pool Streets,O,PORT MELBOURNE,VIC,3207,25900,Port Phillip (C) ,Cnr Nott & Pool Streets,VIC,5145,Port Melbourne,Government,03 9646 0855 ,977
+Primary,3028,Altona Meadows Primary School,78 - 88 Alma Avenue,O,Altona Meadows,VIC,3028,23110,Hobsons Bay (C),78-88 Alma Avenue,VIC,5172,Altona Meadows,Government,03 9369 1288 ,990
+Special,3073,Northern School For Autism ,16-18 Gertz Ave,O,Reservoir,VIC,3073,21890,Darebin (C),16-18 Gertz Ave,VIC,5219,Reservoir,Government,03 9462 5990 ,1019
+Primary,3028,Seabrook Primary School,P O Box 1143 ,O,SEABROOK ,VIC,3028,23110,Hobsons Bay (C),83-105 Point Cook Road,VIC,5337,Seabrook ,Government,03 9395 1758 ,1090
+Primary,3042,Niddrie Primary School,25 Watt Street,O,NIDDRIE,VIC,3042,25060,Moonee Valley (C),25 Watt Street,VIC,5410,Niddrie,Government,03 9379 6587 ,1129
+Secondary,3031,Kensington Community High School,P O Box 321,O,FLEMINGTON,VIC,3031,25060,Moonee Valley (C),405 Racecourse Rd,VIC,7947,Kensington,Government,03 9376 1953 ,1299
+Secondary,3102,Kew High School,1393 Burke Road,O,KEW EAST ,VIC,3102,21110,Boroondara (C),1393 Burke Road,VIC,7950,Kew East ,Government,03 9859 8652 ,1300
+Secondary,3121,Lynall Hall Community School,P O Box 99,O,RICHMOND ,VIC,3121,27350,Yarra (C),Cnr Gleadell & Highett Street,VIC,8003,Richmond ,Government,03 9428 4421 ,1310
+Secondary,3032,Maribyrnong Secondary College,River Street ,O,MARIBYRNONG,VIC,3032,24330,Maribyrnong (C),River Street ,VIC,8015,Maribyrnong,Government,03 9091 8100 ,1313
+Secondary,3141,Melbourne High School,Forrest Hill ,O,SOUTH YARRA,VIC,3141,26350,Stonnington (C),Forrest Hill ,VIC,8025,South Yarra,Government,03 9826 0711 ,1315
+Primary,3046,Belle Vue Park Primary School,Morell Street,O,GLENROY,VIC,3046,25250,Moreland (C) ,Morell Street,VIC,5453,Glenroy,Government,03 9306 7900 ,1158
+Primary,3162,Caulfield Primary School ,724 Glen Huntly Road ,O,CAULFIELD SOUTH,VIC,3162,22310,Glen Eira (C),724 Glen Huntly Road ,VIC,5489,Caulfield South,Government,03 9523 7932 ,1170
+Primary,3073,Reservoir Views Primary School ,110 St Vigeons Road,O,Reservoir,VIC,3073,21890,Darebin (C),110 St Vigeons Road,VIC,5523,Reservoir,Government,03 9460 6995 ,1190
+Pri/Sec,3066,Collingwood College,Private Bag 63,O,ABBOTSFORD,VIC,3067,27350,Yarra (C),Cnr Cromwell St/McCutcheon Way ,VIC,6212,Collingwood,Government,03 9417 6681 ,1199
+Secondary,3187,Brighton Secondary College ,120 Marriage Road,O,EAST BRIGHTON,VIC,3187,20910,Bayside (C),120 Marriage Road,VIC,7650,Brighton East,Government,03 9592 7488 ,1261
+Secondary,3040,Buckley Park College ,Cooper Street,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),Cooper Street,VIC,7670,Essendon ,Government,03 9331 9999 ,1263
+Secondary,3126,Camberwell High School,Prospect Hill Road,O,CANTERBURY,VIC,3126,21110,Boroondara (C),Prospect Hill Road,VIC,7680,Canterbury,Government,03 9836 0555 ,1264
+Secondary,3126,Canterbury Girls Secondary College ,16 Mangarra Road ,O,CANTERBURY,VIC,3126,21110,Boroondara (C),16 Mangarra Road ,VIC,7690,Canterbury,Government,03 9830 5099 ,1265
+Secondary,3031,Mount Alexander 7-12 College,167-175 Mt Alexander Road,O,FLEMINGTON,VIC,3031,25060,Moonee Valley (C),167-175 Mt Alexander Road,VIC,7763,Flemington,Government,03 9376 1622 ,1272
+Secondary,3184,Elwood College,101 Glenhuntly Road,O,ELWOOD ,VIC,3184,25900,Port Phillip (C) ,101 Glenhuntly Road,VIC,7810,Elwood ,Government,03 9531 9566 ,1280
+Secondary,3011,Gilmore College For Girls,P O Box 2021 ,O,FOOTSCRAY,VIC,3011,24330,Maribyrnong (C),298 Barkly Street,VIC,7841,Footscray,Government,03 9689 4788 ,1285
+Secondary,3204,Mckinnon Secondary College ,McKinnon Road,O,MCKINNON ,VIC,3204,22310,Glen Eira (C),291a Mckinnon Road,VIC,8125,Mckinnon ,Government,03 8520 9000 ,1328
+Secondary,3004,MacRobertson Girls High School ,350-370 Kings Way,O,MELBOURNE,VIC,3004,25900,Port Phillip (C) ,350-370 Kings Way,VIC,8135,Melbourne,Government,03 9820 0788 ,1329
+Secondary,3070,Northcote High School,St Georges Road,O,NORTHCOTE,VIC,3070,21890,Darebin (C),St Georges Road,VIC,8180,Northcote,Government,03 9488 2300 ,1333
+Secondary,3044,Pascoe Vale Girls Secondary College,Lake Avenue,O,PASCOE VALE,VIC,3044,25250,Moreland (C) ,Lake Avenue,VIC,8227,Pascoe Vale,Government,03 9306 2544 ,1341
+Secondary,3161,Caulfield Park Community School,319 Balaclava Road,O,CAULFIELD NORTH,VIC,3161,22310,Glen Eira (C),319 Balaclava Road,VIC,8337,Caulfield North,Government,03 9563 5644 ,1355
+Secondary,3056,Sydney Road Community School,P O BOX 292,O,BRUNSWICK,VIC,3056,25250,Moreland (C) ,350 Sydney Road,VIC,8368,Brunswick,Government,03 9380 9417 ,1358
+Secondary,3052,University High School,77 Story Street,O,PARKVILLE,VIC,3052,24600,Melbourne (C),77 Story Street,VIC,8405,Parkville,Government,03 9347 2022 ,1362
+Secondary,3016,Williamstown High School ,Pasco Street ,O,WILLIAMSTOWN ,VIC,3016,23110,Hobsons Bay (C),Pasco Street ,VIC,8475,Williamstown ,Government,03 9397 1899 ,1379
+Secondary,3145,Glen Eira College,76 Booran Road,O,CAULFIELD EAST,VIC,3145,22310,Glen Eira (C),76 Booran Road,VIC,8704,Caulfield East,Government,03 9571 7838 ,1383
+Secondary,3073,Reservoir High School,855 Plenty Road,O,RESERVOIR,VIC,3073,21890,Darebin (C),855 Plenty Road,VIC,8708,Reservoir,Government,03 9470 3555 ,1386
+Pri/Sec,3146,Korowa Anglican Girls' School,Ranfurlie Crescent,O,GLEN IRIS,VIC,3146,26350,Stonnington (C),Ranfurlie Crescent,VIC,5,GLEN IRIS,Independent,03 9885 0336 ,1519
+Secondary,3003,Simonds Catholic College ,273 Victoria Street,O,WEST MELBOURNE,VIC,3003,24600,Melbourne (C),273 Victoria Street,VIC,25,MELBOURNE WEST,Catholic ,03 9329 7699 ,1521
+Secondary,3183,Christian Brothers' College,PO Box 258,O,ST KILDA EAST,VIC,3182,25900,Port Phillip (C) ,11 Westbury Street,VIC,26,ST KILDA EAST,Catholic ,03 9529 6611 ,1522
+Secondary,3191,Sandringham College,11 Holloway Road ,O,SANDRINGHAM,VIC,3191,20910,Bayside (C),11 Holloway Road ,VIC,8739,Sandringham,Government,03 8599 0500 ,1401
+Secondary,3068,Fitzroy High School,Falconer Street,O,FITZROY NORTH,VIC,3068,27350,Yarra (C),Falconer Street,VIC,8742,Fitzroy North,Government,03 9488 1900 ,1402
+Language ,3066,Collingwood English Language School,19 Cambridge Street,O,COLLINGWOOD,VIC,3066,27350,Yarra (C),19 Cambridge Street,VIC,8748,Collingwood,Government,03 9419 7633 ,1408
+Pri/Sec,3016,Bayside P-12 College ,P O Box 515,O,ALTONA NORTH ,VIC,3025,23110,Hobsons Bay (C),29-69 Kororoit Creek Road,VIC,8800,Williamstown ,Government,03 9393 5800 ,1421
+Secondary,3056,Brunswick Secondary College,47 Dawson Street ,O,BRUNSWICK,VIC,3056,25250,Moreland (C) ,47 Dawson Street ,VIC,8807,Brunswick,Government,03 9387 6133 ,1427
+Secondary,3121,Melbourne Girls College,Yarra Boulevard,O,RICHMOND ,VIC,3121,27350,Yarra (C),Yarra Boulevard,VIC,8819,Richmond ,Government,03 9428 8955 ,1437
+Secondary,3011,Footscray City College,Kinnear Street,O,FOOTSCRAY,VIC,3011,24330,Maribyrnong (C),Kinnear Street,VIC,8836,Footscray,Government,03 8387 1500 ,1450
+Secondary,3058,Coburg Senior High School,P O Box 162,O,Coburg ,VIC,3058,25250,Moreland (C) ,Alva Grove,VIC,8849,Coburg ,Government,03 9353 1700 ,1460
+Pri/Sec,3018,Altona P-9 College,Private Bag 9,O,Altona ,VIC,3018,23110,Hobsons Bay (C),103 A Grieve Parade,VIC,8857,Altona ,Government,03 9250 8050 ,1466
+Primary,3046,Glenroy Central Primary School ,10 Logan St,O,Glenroy,VIC,3046,25250,Moreland (C) ,10 Logan Street,VIC,5542,Glenroy,Government,03 9306 4144 ,1493
+Pri/Sec,3004,Melbourne Grammar School ,Domain Road,O,MELBOURNE,VIC,3004,24600,Melbourne (C),Domain Road,VIC,2072,MELBOURNE,Independent,03 9865 7555 ,1506
+Primary,3046,Glenroy Private Ltd,163 - 165 Glenroy Road,O,GLENROY,VIC,3046,25250,Moreland (C) ,163 - 165 Glenroy Road,VIC,2080,GLENROY,Independent,03 9077 8205 ,1510
+Primary,3186,Divrei Emineh,P O Box 1162 ,O,ELSTERNWICK,VIC,3185,20910,Bayside (C),453 New Street,VIC,2083,BRIGHTON ,Independent,03 9530 8777 ,1514
+Pri/Sec,3004,Wesley College,577 St Kilda Road,O,MELBOURNE,VIC,3004,24600,Melbourne (C),577 St Kilda Road,VIC,1,MELBOURNE,Independent,03 8102 6888 ,1515
+Secondary,3206,Albert Park College,83 Danks Street,O,Albert Park,VIC,3206,25900,Port Phillip (C) ,83 Danks Street,VIC,8889,Albert Park,Government,03 8695 9000 ,1517
+Primary,3015,Sacred Heart School,4 Newcastle Street,O,NEWPORT,VIC,3015,23110,Hobsons Bay (C),4 Newcastle Street,VIC,77,NEWPORT,Catholic ,03 9391 6262 ,1529
+Primary,3016,St Mary's School ,PO Box 283,O,WILLIAMSTOWN ,VIC,3016,23110,Hobsons Bay (C),118 Cecil Street ,VIC,78,WILLIAMSTOWN ,Catholic ,03 9397 7926 ,1530
+Pri/Sec,3101,Ruyton Girls' School ,12 Selbourne Road,O,KEW,VIC,3101,21110,Boroondara (C),12 Selbourne Road,VIC,83,KEW,Independent,03 9819 2422 ,1531
+Pri/Sec,3183,Caulfield Grammar School ,PO Box 610,O,ELSTERNWICK,VIC,3185,22310,Glen Eira (C),217 Glen Eira Road,VIC,96,ST KILDA EAST,Independent,03 9524 6300 ,1532
+Primary,3051,St Michael's School,8-14 Brougham Street ,O,NORTH MELBOURNE,VIC,3051,24600,Melbourne (C),8-14 Brougham Street ,VIC,98,MELBOURNE NORTH,Catholic ,03 9329 9206 ,1533
+Secondary,3181,Presentation College Windsor,187 Dandenong Road,O,WINDSOR,VIC,3181,26350,Stonnington (C),187 Dandenong Road,VIC,106,WINDSOR,Catholic ,03 8517 2777 ,1535
+Primary,3183,St Mary's School ,214 Dandenong Road,O,ST KILDA EAST,VIC,3183,25900,Port Phillip (C) ,214 Dandenong Road,VIC,107,ST KILDA EAST,Catholic ,03 9510 7420 ,1536
+Primary,3031,St Brendan's School,103 Wellington Street,O,FLEMINGTON,VIC,3031,25060,Moonee Valley (C),103 Wellington Street,VIC,113,FLEMINGTON,Catholic ,03 9376 0249 ,1538
+Pri/Sec,3146,Sacre Coeur,172 Burke Road,O,GLEN IRIS,VIC,3146,26350,Stonnington (C),172 Burke Road,VIC,149,GLEN IRIS,Catholic ,03 9885 4501 ,1545
+Primary,3070,St Joseph's School,39 James Street,O,NORTHCOTE,VIC,3070,21890,Darebin (C),39 James Street,VIC,151,NORTHCOTE,Catholic ,03 9481 7166 ,1546
+Secondary,3186,Star of the Sea College,PO Box 7001 Gardenvale LPO ,O,BRIGHTON ,VIC,3186,20910,Bayside (C),80 Martin Street ,VIC,250,BRIGHTON ,Catholic ,03 9596 6099 ,1567
+Primary,3186,St James' School ,6 St James Close ,O,BRIGHTON ,VIC,3186,20910,Bayside (C),6 St James Close ,VIC,251,BRIGHTON ,Catholic ,03 9596 4766 ,1568
+Primary,3165,St Peter's School,842 Centre Road,O,BENTLEIGH EAST,VIC,3165,22310,Glen Eira (C),842 Centre Road,VIC,252,BENTLEIGH EAST,Catholic ,03 9579 5068 ,1569
+Pri/Sec,3101,Methodist Ladies' College,207 Barkers Road ,O,KEW,VIC,3101,21110,Boroondara (C),207 Barkers Road ,VIC,259,KEW,Independent,03 9274 6333 ,1570
+Primary,3141,Christ Church Grammar School,PO Box 392,O,SOUTH YARRA,VIC,3141,24600,Melbourne (C),677 Punt Road,VIC,330,SOUTH YARRA,Independent,03 9866 3540 ,1579
+Primary,3058,St Paul's School ,562 Sydney Road,O,COBURG ,VIC,3058,25250,Moreland (C) ,562 Sydney Road,VIC,336,COBURG ,Catholic ,03 9354 8970 ,1580
+Pri/Sec,3103,Fintona Girls' School,79 Balwyn Road,O,BALWYN ,VIC,3103,21110,Boroondara (C),79 Balwyn Road,VIC,385,BALWYN ,Independent,03 9830 1388 ,1588
+Pri/Sec,3143,Lauriston Girls' School,PO Box 8110,O,ARMADALE ,VIC,3143,26350,Stonnington (C),38 Huntingtower Road ,VIC,391,ARMADALE ,Independent,03 9864 7555 ,1590
+Pri/Sec,3101,Xavier College,135 Barkers Road ,O,KEW,VIC,3101,21110,Boroondara (C),135 Barkers Road ,VIC,404,KEW,Catholic ,03 9854 5411 ,1592
+Pri/Sec,3101,Trinity Grammar School Kew ,40 Charles Street,O,KEW,VIC,3101,21110,Boroondara (C),40 Charles Street,VIC,457,KEW,Independent,03 9854 3600 ,1599
+Secondary,3065,Academy of Mary Immaculate ,88 Nicholson Street,O,FITZROY,VIC,3065,27350,Yarra (C),88 Nicholson Street,VIC,467,FITZROY,Catholic ,03 9419 3044 ,1600
+Primary,3065,Sacred Heart School,107 King William Street,O,FITZROY,VIC,3065,27350,Yarra (C),107 King William Street,VIC,468,FITZROY,Catholic ,03 9419 3528 ,1601
+Primary,3011,St Monica's School,2 Wingfield Street,O,FOOTSCRAY,VIC,3011,24330,Maribyrnong (C),2 Wingfield Street,VIC,477,FOOTSCRAY,Catholic ,03 9689 4548 ,1603
+Primary,3013,St Augustine's School,65 Somerville Road,O,YARRAVILLE,VIC,3013,24330,Maribyrnong (C),65 Somerville Road,VIC,478,YARRAVILLE,Catholic ,03 9314 5996 ,1604
+Pri/Sec,3141,Melbourne Girls Grammar,86 Anderson Street,O,SOUTH YARRA,VIC,3141,24600,Melbourne (C),86 Anderson Street,VIC,509,SOUTH YARRA,Independent,03 9862 9200 ,1610
+Primary,3068,St John's School ,77 Queens Parade ,O,CLIFTON HILL ,VIC,3068,27350,Yarra (C),77 Queens Parade ,VIC,524,CLIFTON HILL ,Catholic ,03 9489 1346 ,1614
+Primary,3039,St Monica's Primary School ,20 Robinson Street,O,MOONEE PONDS ,VIC,3039,25060,Moonee Valley (C),20 Robinson Street,VIC,566,MOONEE PONDS ,Catholic ,03 9375 1132 ,1622
+Primary,3066,St Joseph's School,46 Otter Street,O,COLLINGWOOD,VIC,3066,27350,Yarra (C),46 Otter Street,VIC,579,COLLINGWOOD,Catholic ,03 9419 4918 ,1625
+Primary,3101,Sacred Heart School,PO Box 3221 Cotham Licensed Post Office,O,KEW,VIC,3101,21110,Boroondara (C),116 Cotham Road,VIC,590,KEW,Catholic ,03 9853 5859 ,1627
+Secondary,3051,St Aloysius College,PO Box 2072 Hotham Hill PO ,O,NORTH MELBOURNE,VIC,3051,24600,Melbourne (C),31 Curran Street ,VIC,605,MELBOURNE NORTH,Catholic ,03 9329 0411 ,1632
+Secondary,3040,St Columba's College ,PO Box 89,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),2 Leslie Road,VIC,707,ESSENDON ,Catholic ,03 9337 5311 ,1642
+Pri/Sec,3101,Genazzano FCJ College,301 Cotham Road,O,KEW,VIC,3101,21110,Boroondara (C),301 Cotham Road,VIC,733,KEW,Catholic ,03 8862 1000 ,1646
+Pri/Sec,3182,St Michael's Grammar School,25 Chapel Street ,O,ST KILDA ,VIC,3182,25900,Port Phillip (C) ,25 Chapel Street ,VIC,818,ST KILDA ,Independent,03 8530 3200 ,1649
+Pri/Sec,3186,Firbank Grammar School,51 Outer Crescent,O,BRIGHTON ,VIC,3186,20910,Bayside (C),51 Outer Crescent,VIC,879,BRIGHTON ,Independent,03 9591 5188 ,1654
+Primary,3055,St Joseph's School,185 Hope Street,O,BRUNSWICK WEST,VIC,3055,25250,Moreland (C) ,185 Hope Street,VIC,915,BRUNSWICK WEST,Catholic ,03 9380 9733 ,1657
+Primary,3057,Our Lady Help of Christians School ,26 Miller Street ,O,BRUNSWICK EAST,VIC,3057,25250,Moreland (C) ,26 Miller Street ,VIC,931,BRUNSWICK EAST,Catholic ,03 9380 5050 ,1661
+Primary,3163,St Anthony's School,Cnr Neerim and Grange Roads,O,GLEN HUNTLY,VIC,3163,22310,Glen Eira (C),Cnr Neerim and Grange Roads,VIC,932,GLEN HUNTLY,Catholic ,03 9563 6780 ,1662
+Primary,3191,Sacred Heart School,11 Fernhill Road ,O,SANDRINGHAM,VIC,3191,20910,Bayside (C),11 Fernhill Road ,VIC,937,SANDRINGHAM,Catholic ,03 9598 9322 ,1664
+Primary,3032,St Mary's School ,74 Roseberry Street,O,ASCOT VALE,VIC,3032,25060,Moonee Valley (C),74 Roseberry Street,VIC,954,ASCOT VALE,Catholic ,03 9370 1194 ,1666
+Pri/Sec,3144,De La Salle College,1318 High Street ,O,MALVERN,VIC,3144,26350,Stonnington (C),1318 High Street ,VIC,956,MALVERN,Catholic ,03 9508 2100 ,1668
+Primary,3015,Westbourne Grammar School,PO Box 37,O,WERRIBEE ,VIC,3030,23110,Hobsons Bay (C),67 The Strand,VIC,1003,NEWPORT,Independent,03 9731 9555 ,1674
+Primary,3145,St Mary's School ,91 Manning Road,O,MALVERN EAST ,VIC,3145,26350,Stonnington (C),91 Manning Road,VIC,1024,MALVERN EAST ,Catholic ,03 9571 1358 ,1679
+Pri/Sec,3187,St Leonard's College ,163 South Rd ,O,BRIGHTON EAST,VIC,3187,20910,Bayside (C),163 South Rd ,VIC,1025,BRIGHTON EAST,Independent,03 9909 9300 ,1680
+Primary,3031,Holy Rosary School,PO Box 1192,O,KENSINGTON,VIC,3031,24600,Melbourne (C),37 Gower Street,VIC,1033,KENSINGTON,Catholic ,03 9376 9455 ,1681
+Primary,3144,St Joseph's School,49 Stanhope Street,O,MALVERN,VIC,3144,26350,Stonnington (C),49 Stanhope Street,VIC,1045,MALVERN,Catholic ,03 9509 3092 ,1684
+Primary,3184,St Columba's School,24 Glenhuntly Road,O,ELWOOD ,VIC,3184,25900,Port Phillip (C) ,24 Glenhuntly Road,VIC,1070,ELWOOD ,Catholic ,03 9531 6560 ,1687
+Pri/Sec,3040,Lowther Hall Anglican Grammar School,PO Box 178,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),17 Leslie Road,VIC,1117,ESSENDON ,Independent,03 9325 5000 ,1698
+Primary,3161,St Aloysius' School,Cromwell Street,O,CAULFIELD,VIC,3161,22310,Glen Eira (C),Cromwell Street,VIC,1130,CAULFIELD,Catholic ,03 9532 9416 ,1700
+Primary,3186,St Joan of Arc School,30 Dendy Street,O,BRIGHTON ,VIC,3186,20910,Bayside (C),30 Dendy Street,VIC,1134,BRIGHTON ,Catholic ,03 9592 3840 ,1701
+Primary,3011,St John's School ,34 Essex Street,O,FOOTSCRAY,VIC,3011,24330,Maribyrnong (C),34 Essex Street,VIC,1146,FOOTSCRAY,Catholic ,03 9687 3150 ,1704
+Pri/Sec,3161,Shelford Girls' Grammar,3 Hood Crescent,O,CAULFIELD,VIC,3161,22310,Glen Eira (C),3 Hood Crescent,VIC,1163,CAULFIELD,Independent,03 9524 7333 ,1706
+Pri/Sec,3101,Carey Baptist Grammar School,349 Barkers Road ,O,KEW,VIC,3101,21110,Boroondara (C),349 Barkers Road ,VIC,1189,KEW,Independent,03 9816 1222 ,1714
+Pri/Sec,3204,Kilvington Grammar School,PO Box 144,O,ORMOND ,VIC,3204,22310,Glen Eira (C),2 Leila Road ,VIC,1190,ORMOND ,Independent,03 9578 6231 ,1715
+Primary,3040,St Therese's School,25-31 Edward Street,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),25-31 Edward Street,VIC,1193,ESSENDON ,Catholic ,03 9379 8748 ,1717
+Primary,3103,Our Lady of Good Counsel School,52 Deepdene Road ,O,DEEPDENE ,VIC,3103,21110,Boroondara (C),52 Deepdene Road ,VIC,1206,DEEPDENE ,Catholic ,03 9817 5251 ,1719
+Pri/Sec,3126,Strathcona Baptist Girls' Grammar,34 Scott Street,O,CANTERBURY,VIC,3126,21110,Boroondara (C),34 Scott Street,VIC,1209,CANTERBURY,Independent,03 8779 7500 ,1720
+Primary,3204,St Kevin's School,76 Glen Orme Avenue,O,ORMOND ,VIC,3204,22310,Glen Eira (C),Glen Orme Avenue ,VIC,1212,ORMOND ,Catholic ,03 9578 1182 ,1721
+Primary,3187,St Finbar's School,90 Centre Road,O,BRIGHTON EAST,VIC,3187,20910,Bayside (C),90 Centre Road,VIC,1221,BRIGHTON EAST,Catholic ,03 9592 4479 ,1725
+Primary,3188,St Mary's School ,59 Holyrood Street,O,HAMPTON,VIC,3188,20910,Bayside (C),59 Holyrood Street,VIC,1231,HAMPTON,Catholic ,03 9521 9335 ,1728
+Pri/Sec,3126,Camberwell Grammar School,PO Box 151,O,BALWYN ,VIC,3103,21110,Boroondara (C),55 Mont Albert Road,VIC,1258,CANTERBURY,Independent,03 9835 1777 ,1731
+Pri/Sec,3186,Brighton Grammar School,90 Outer Crescent,O,BRIGHTON ,VIC,3186,20910,Bayside (C),90 Outer Crescent,VIC,1262,BRIGHTON ,Independent,03 8591 2200 ,1733
+Primary,3018,St Mary's School ,PO Box 63,O,ALTONA ,VIC,3018,23110,Hobsons Bay (C),95A Railway Street,VIC,1273,ALTONA ,Catholic ,03 9398 4842 ,1737
+Primary,3073,St Gabriel's School,237 Spring Street,O,RESERVOIR,VIC,3073,21890,Darebin (C),237 Spring Street,VIC,1289,RESERVOIR,Catholic ,03 9469 3513 ,1742
+Primary,3204,St Paul's School ,122 Jasper Road,O,BENTLEIGH,VIC,3204,22310,Glen Eira (C),122 Jasper Road,VIC,1291,BENTLEIGH,Catholic ,03 9557 7130 ,1743
+Primary,3193,St Joseph's School,544 Balcombe Road,O,BLACK ROCK,VIC,3193,20910,Bayside (C),544 Balcombe Road,VIC,1292,BLACK ROCK,Catholic ,03 9589 4685 ,1744
+Primary,3163,St Patrick's School,3 Dalny Road ,O,MURRUMBEENA,VIC,3163,22310,Glen Eira (C),3 Dalny Road ,VIC,1310,MURRUMBEENA,Catholic ,03 9569 7487 ,1749
+Primary,3146,St Roch's School ,Glenvale Road,O,GLEN IRIS,VIC,3146,26350,Stonnington (C),Glenvale Road,VIC,1311,GLEN IRIS,Catholic ,03 9885 7704 ,1750
+Pri/Sec,3126,Camberwell Girls Grammar School,2 Torrington Street,O,CANTERBURY,VIC,3126,21110,Boroondara (C),2 Torrington Street,VIC,1322,CANTERBURY,Independent,03 9813 1166 ,1753
+Primary,3102,St Anne's School ,7-19 Beresford Street,O,KEW EAST ,VIC,3102,21110,Boroondara (C),7-19 Beresford Street,VIC,1328,KEW EAST ,Catholic ,03 9859 4116 ,1754
+Primary,3146,St Cecilia's School,4 Van Ness Avenue,O,GLEN IRIS,VIC,3146,21110,Boroondara (C),4 Van Ness Avenue,VIC,1354,GLEN IRIS,Catholic ,03 9809 2142 ,1758
+Primary,3185,St Joseph's School,PO Box 511,O,ELSTERNWICK,VIC,3185,22310,Glen Eira (C),28 Sandham Street,VIC,1368,ELSTERNWICK,Catholic ,03 9528 1614 ,1759
+Pri/Sec,3101,Preshil The Margaret Lyttle Memorial School,P.O. Box 252 ,O,BALWYN ,VIC,3103,21110,Boroondara (C),395 Barkers Road ,VIC,1377,KEW,Independent,03 9817 6135 ,1761
+Secondary,3070,Santa Maria College,PO Box 679,O,NORTHCOTE,VIC,3070,21890,Darebin (C),50 Separation Street ,VIC,1386,NORTHCOTE,Catholic ,03 9489 7644 ,1763
+Primary,3060,St Mark's School ,Argyle Street,O,FAWKNER,VIC,3060,25250,Moreland (C) ,Argyle Street,VIC,1398,FAWKNER,Catholic ,03 9359 6463 ,1765
+Primary,3073,Holy Name School ,12 Robb Street,O,RESERVOIR,VIC,3073,21890,Darebin (C),12 Robb Street,VIC,1438,RESERVOIR,Catholic ,03 9471 0883 ,1776
+Secondary,3000,Taylors Senior College,399 Lonsdale Street,O,MELBOURNE,VIC,3000,24600,Melbourne (C),399 Lonsdale Street,VIC,1441,MELBOURNE,Independent,03 9935 7900 ,1777
+Secondary,3124,Siena College Ltd,815 Riversdale Road,O,CAMBERWELL,VIC,3124,21110,Boroondara (C),815 Riversdale Road,VIC,1445,CAMBERWELL,Catholic ,03 9835 0200 ,1778
+Primary,3058,St Bernard's School,36 Patterson Street,O,COBURG EAST,VIC,3058,25250,Moreland (C) ,36 Patterson Street,VIC,1459,COBURG EAST,Catholic ,03 9383 1219 ,1779
+Primary,3044,St Oliver Plunkett's School,PO Box 667,O,PASCOE VALE,VIC,3044,25250,Moreland (C) ,1-39 Landells Road,VIC,1465,PASCOE VALE,Catholic ,03 9354 5411 ,1781
+Primary,3012,Corpus Christi School,380 Geelong Road ,O,KINGSVILLE,VIC,3012,24330,Maribyrnong (C),380 Geelong Road ,VIC,1466,KINGSVILLE,Catholic ,03 9314 7303 ,1782
+Secondary,3040,St Bernard's College ,41 Rosehill Road ,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),41 Rosehill Road ,VIC,1471,ESSENDON ,Catholic ,03 9289 1000 ,1784
+Primary,3147,St Michael's School,268 High Street,O,ASHBURTON,VIC,3147,21110,Boroondara (C),268 High Street,VIC,1477,ASHBURTON,Catholic ,03 9885 3105 ,1786
+Secondary,3204,Our Lady of the Sacred Heart College,111 Jasper Road,O,BENTLEIGH,VIC,3204,22310,Glen Eira (C),111 Jasper Road,VIC,1481,BENTLEIGH,Catholic ,03 9563 9522 ,1788
+Primary,3104,St Bede's School ,2 Marwal Avenue,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),2 Marwal Avenue,VIC,1482,BALWYN NORTH ,Catholic ,03 8851 4651 ,1789
+Primary,3040,Resurrection House,6 Aberfeldie Street,O,ESSENDON ,VIC,3040,25060,Moonee Valley (C),6 Aberfeldie Street,VIC,1513,ESSENDON ,Catholic ,03 9337 0084 ,1808
+Pri/Sec,3185,Adass Israel School,PO Box 23,O,ELSTERNWICK,VIC,3185,22310,Glen Eira (C),10-12 King Street,VIC,1515,ELSTERNWICK,Independent,03 9523 6422 ,1809
+Special,3188,Larmenier,453 Bluff Road,O,HAMPTON,VIC,3188,20910,Bayside (C),453 Bluff Road,VIC,1519,HAMPTON,Catholic ,03 9521 8511 ,1811
+Primary,3068,Fitzroy Community School ,597-599 Brunswick Street ,O,FITZROY NORTH,VIC,3068,27350,Yarra (C),597-599 Brunswick Street ,VIC,1819,FITZROY NORTH,Independent,03 9489 5700 ,2021
+Primary,3028,Queen of Peace Primary School,PO Box 1259,O,ALTONA MEADOWS,VIC,3028,23110,Hobsons Bay (C),62 Everingham Road,VIC,1831,ALTONA MEADOWS,Catholic ,03 9369 2581 ,2031
+Special,3101,Andale School,PO Box 2483,O,KEW,VIC,3101,21110,Boroondara (C),84 Charles Street,VIC,1838,KEW,Independent,03 9853 3911 ,2038
+Primary,3015,St Margaret Mary's School,181 Hudsons Road ,O,SPOTSWOOD,VIC,3015,23110,Hobsons Bay (C),181 Hudsons Road ,VIC,1527,SPOTSWOOD,Catholic ,03 9391 3118 ,1818
+Pri/Sec,3183,Yeshivah College ,88 Hotham Street ,O,ST KILDA EAST,VIC,3183,22310,Glen Eira (C),88 Hotham Street ,VIC,1533,ST KILDA EAST,Independent,03 9522 8222 ,1824
+Primary,3042,St John Bosco's School,29 Muriel Street ,O,NIDDRIE,VIC,3042,25060,Moonee Valley (C),6 Teague Street,VIC,1534,NIDDRIE,Catholic ,03 9337 2314 ,1825
+Primary,3046,Corpus Christi School,13-21 Widford Street ,O,GLENROY,VIC,3046,25250,Moreland (C) ,13-21 Widford Street ,VIC,1545,GLENROY,Catholic ,03 9306 3062 ,1832
+Primary,3193,Stella Maris School,113 Oak Street,O,BEAUMARIS,VIC,3193,20910,Bayside (C),113 Oak Street,VIC,1554,BEAUMARIS,Catholic ,03 9589 2641 ,1837
+Pri/Sec,3183,Beth Rivkah Ladies College ,14-20 Balaclava Road ,O,ST KILDA EAST,VIC,3183,22310,Glen Eira (C),14-20 Balaclava Road ,VIC,1561,ST KILDA EAST,Independent,03 9522 8227 ,1843
+Primary,3032,St Margaret's Primary School,67 The Esplanade ,O,MARIBYRNONG,VIC,3032,24330,Maribyrnong (C),67 The Esplanade ,VIC,1563,MARIBYRNONG,Catholic ,03 9318 1339 ,1844
+Secondary,3166,Sacred Heart Girls' College,PO Box 228,O,OAKLEIGH ,VIC,3166,24970,Monash (C),113 Warrigal Road,VIC,1571,HUGHESDALE,Catholic ,03 9568 5488 ,1851
+Primary,3040,Our Lady of the Nativity School,29 Fawkner Street,O,ABERFELDIE,VIC,3040,25060,Moonee Valley (C),29 Fawkner Street,VIC,1585,ABERFELDIE,Catholic ,03 9337 4204 ,1861
+Primary,3104,St Bridget's School,36 Sweyn Street,O,BALWYN NORTH ,VIC,3104,21110,Boroondara (C),36 Sweyn Street,VIC,1595,BALWYN NORTH ,Catholic ,03 9857 6394 ,1869
+Pri/Sec,3185,Leibler Yavneh College,PO Box 164,O,CAULFIELD SOUTH,VIC,3162,22310,Glen Eira (C),2 Nagle Avenue,VIC,1609,ELSTERNWICK,Independent,03 9528 4911 ,1878
+Primary,3046,St Francis de Sales School ,PO Box 2109,O,OAK PARK ,VIC,3046,25250,Moreland (C) ,626 Pascoe Vale Road ,VIC,1616,OAK PARK ,Catholic ,03 9306 9444 ,1883
+Primary,3042,St Christopher's School,34 Roberts Road,O,AIRPORT WEST ,VIC,3042,25060,Moonee Valley (C),34 Roberts Road,VIC,1620,AIRPORT WEST ,Catholic ,03 9338 3591 ,1887
+Secondary,3040,Ave Maria College,14-22 Vida Street,O,ABERFELDIE,VIC,3040,25060,Moonee Valley (C),14-22 Vida Street,VIC,1625,ABERFELDIE,Catholic ,03 9337 1666 ,1891
+Primary,3083,Our Lady of the Way School ,PO Box 159,O,KINGSBURY,VIC,3083,21890,Darebin (C),11-13 Green Avenue,VIC,1627,KINGSBURY,Catholic ,03 9460 6684 ,1893
+Secondary,3018,Mount St Joseph Girls' College ,PO Box 139,O,ALTONA NORTH ,VIC,3025,23110,Hobsons Bay (C),133 Maidstone Street ,VIC,1635,ALTONA ,Catholic ,03 8398 2000 ,1900
+Special,3101,St Paul's College,Locked Bag 20,O,KEW,VIC,3101,21110,Boroondara (C),3-13 Fernhurst Grove ,VIC,1647,KEW,Catholic ,03 9855 7700 ,1909
+Secondary,3025,Emmanuel College ,PO Box 5 ,O,ALTONA NORTH ,VIC,3025,23110,Hobsons Bay (C),423 Blackshaws Road,VIC,1654,ALTONA NORTH ,Catholic ,03 8325 5100 ,1916
+Secondary,3058,Mercy College,760 Sydney Road,O,COBURG ,VIC,3058,25250,Moreland (C) ,760 Sydney Road,VIC,1661,COBURG ,Catholic ,03 9319 9299 ,1922
+Primary,3034,St Martin de Porres School ,158 Military Road,O,AVONDALE HEIGHTS ,VIC,3034,25060,Moonee Valley (C),158 Military Road,VIC,1674,AVONDALE HEIGHTS ,Catholic ,03 9331 9000 ,1932
+Secondary,3165,St James'College,PO Box 77,O,BENTLEIGH EAST,VIC,3165,22310,Glen Eira (C),156 Bignell Road ,VIC,1685,BENTLEIGH EAST,Catholic ,03 9575 8100 ,1939
+Primary,3025,St Leo the Great School,PO Box 145,O,ALTONA NORTH ,VIC,3025,23110,Hobsons Bay (C),315 Mason Street ,VIC,1690,ALTONA NORTH ,Catholic ,03 9391 5522 ,1941
+Special,3145,The Currajong School ,PO Box 8 ,O,DARLING SOUTH,VIC,3145,26350,Stonnington (C),90 Darling Road,VIC,1711,MALVERN EAST ,Independent,03 9571 7869 ,1952
+Primary,3185,Sholem Aleichem College,11 Sinclair St,O,ELSTERNWICK,VIC,3185,22310,Glen Eira (C),11 Sinclair St,VIC,1729,ELSTERNWICK,Independent,03 8527 3000 ,1961
+Pri/Sec,3143,The King David School,PO Box 286,O,MALVERN,VIC,3144,26350,Stonnington (C),517-519 Orrong Road,VIC,1773,ARMADALE ,Independent,03 9529 5277 ,1990
+Pri/Sec,3058,Australian International Academy of Education,653 Sydney Road,O,COBURG ,VIC,3058,25250,Moreland (C) ,653 Sydney Road,VIC,1874,COBURG ,Independent,03 9350 4533 ,2061
+Pri/Sec,3162,Japanese School of Melbourne,6 Ellington Street,O,CAULFIELD SOUTH,VIC,3162,22310,Glen Eira (C),6 Ellington Street,VIC,1902,CAULFIELD SOUTH,Independent,03 9528 1978 ,2077
+Pri/Sec,3067,Sophia Mundi Steiner School,P.O. Box 184 ,O,ABBOTSFORD,VIC,3067,27350,Yarra (C),1 St Helliers Street ,VIC,1905,ABBOTSFORD,Independent,03 9419 9229 ,2080
+Primary,3205,Galilee Regional Catholic Primary School ,301-309 Bank Street,O,SOUTH MELBOURNE,VIC,3205,25900,Port Phillip (C) ,301-309 Bank Street,VIC,1941,SOUTH MELBOURNE,Catholic ,03 9699 2928 ,2106
+Primary,3073,Maharishi School of the Age of Enlightenment ,PO Box 81,O,BUNDOORA ,VIC,3083,21890,Darebin (C),2-6 Dundee Street,VIC,1961,RESERVOIR,Independent,03 9462 2888 ,2124
+Secondary,3053,Stott's Colleges ,Level 1 252 Lygon Street ,O,CARLTON,VIC,3053,24600,Melbourne (C),Level 1 252 Lygon Street ,VIC,1997,CARLTON,Independent,03 9867 1122 ,2147
+Special,3141,Kamaruka ,PO Box 6086,O,SOUTH YARRA,VIC,3141,27350,Yarra (C),52 River Street,VIC,1999,SOUTH YARRA,Independent,03 9429 0564 ,2149
+Pri/Sec,3058,Antonine College ,PO Box 197,O,MORELAND ,VIC,3058,25250,Moreland (C) ,71 Grandview Avenue,VIC,2010,PASCOE VALE SOUTH,Catholic ,03 9354 1377 ,2154
+Secondary,3000,Ozford College,Level 9 123 Lonsdale Street,O,MELBOURNE,VIC,3000,24600,Melbourne (C),Level 9 123 Lonsdale Street,VIC,2016,MELBOURNE,Independent,03 8663 7188 ,2155
+Pri/Sec,3184,Yesodei HaTorah College,39 Dickens Street,O,ELWOOD ,VIC,3184,25900,Port Phillip (C) ,39 Dickens Street,VIC,2019,ELWOOD ,Independent,03 9531 3203 ,2157
+Secondary,3000,Holmes Secondary College ,185 Spring Street,O,MELBOURNE,VIC,3000,24600,Melbourne (C),185 Spring Street,VIC,2024,MELBOURNE,Independent,03 9662 2055 ,2161
+Secondary,3000,New Generation College,Level 6 152-168 Elizabeth Street,O,MELBOURNE,VIC,3000,24600,Melbourne (C),Level 6 152-168 Elizabeth Street,VIC,2026,MELBOURNE,Independent,03 9663 5998 ,2162
+Special,3052,Parkville College,900 Park Street,O,Parkville,VIC,3052,24600,Melbourne (C),900 Park Street,VIC,8916,Parkville,Government,03 9389 4408 ,2195
+Secondary,3046,Glenroy Secondary College,120 Glenroy Road ,O,Glenroy,VIC,3046,25250,Moreland (C) ,120 Glenroy Road ,VIC,8893,Glenroy,Government,03 9304 0400 ,2209
+Secondary,3060,John Fawkner Secondary College ,P O Box 76,O,Fawkner,VIC,3060,25250,Moreland (C) ,Jukes Road,VIC,8894,Fawkner,Government,03 9359 1166 ,2210
+Primary,3073,William Ruthven Primary School ,P O Box 388,O,Reservoir,VIC,3073,21890,Darebin (C),60 Merrilands Road,VIC,5544,Reservoir,Government,03 9460 1668 ,2211
+Secondary,3073,William Ruthven Secondary College,60 Merrilands Road,O,Reservoir,VIC,3073,21890,Darebin (C),60 Merrilands Road,VIC,8895,Reservoir,Government,03 9462 2177 ,2212
+Primary,3162,Melbourne Montessori School,4-6 Roselea Street,O,CAULFIELD SOUTH,VIC,3162,22310,Glen Eira (C),4-6 Roselea Street,VIC,2077,CAULFIELD SOUTH,Independent,03 9528 4478 ,2215
+Special,3051,St Joseph's Flexible Learning Centre Melbourne,PO Box 287 9 The Vaucluse,O,NORTH MELBOURNE,VIC,3051,24600,Melbourne (C),385 Queensberry Street,VIC,2079,NORTH MELBOURNE,Catholic ,03 9269 6900 ,2217
