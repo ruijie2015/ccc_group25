@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename = 'css/index.css') }}" />
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+  <header>
+    <h1>Data Visualization Based on Tweets in Melbourne</h1>
+    <div class="showTime">time：2022-5-15 0:54:14</div>
+    <script>
+      var t = null;
+      t = setTimeout(time, 1000);
+      function time() {
+        clearTimeout(t);
+        dt = new Date();
+        var y = dt.getFullYear();
+        var mt = dt.getMonth() + 1;
+        var day = dt.getDate();
+        var h = dt.getHours();
+        var m = dt.getMinutes();
+        var s = dt.getSeconds();
+        document.querySelector(".showTime").innerHTML =
+          "current time：" +
+          y +
+          "-" +
+          mt +
+          "-" +
+          day +
+          " " +
+          h +
+          ":" +
+          m +
+          ":" +
+          s;
+        t = setTimeout(time, 1000);
+      }
+    </script>
+  </header>
+  <section class="mainbox">
+    <div class="column">
+      <div class="panel bar">
+        <h2>
+          Education analysis on different suburbs
+        </h2>
+        <div class="chart"></div>
+        <div class="panel-footer"></div>
+      </div>
+      <div class="panel line">
+        <h2>Education situation by year</h2>
+        <div class="chart"></div>
+        <div class="panel-footer"></div>
+      </div>
+      <div class="panel pie">
+        <h2>Popular key words of educaiton</h2>
+        <div class="chart"></div>
+        <div class="panel-footer"></div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="no">
+        <div class="no-hd">
+          <ul>
+            <li id="history">0</li>
+            <li id="streaming">0</li>
+          </ul>
+        </div>
+        <div class="no-bd">
+          <ul>
+            <li>Historical tweets</li>
+            <li>Streaming tweets</li>
+          </ul>
+        </div>
+      </div>
+      <div class="map">
+        <div class="chart"></div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="panel bar1">
+        <h2>Environment analysis on different suburbs</h2>
+        <div class="chart"></div>
+        <div class="panel-footer"></div>
+      </div>
+      <div class="panel line1">
+        <h2>Environment situation by year</h2>
+        <div class="chart"></div>
+        <div class="panel-footer"></div>
+      </div>
+      <div class="panel pie1">
+        <h2>Popular key words of environment</h2>
+        <div class="chart"></div>
+        <div class="panel-footer"></div>
+      </div>
+    </div>
+  </section>
+  <script src="{{ url_for('static', filename = 'js/flexible.js') }}"></script>
+  <script src="{{ url_for('static', filename = 'js/jquery.js') }}"></script>
+  <script src="{{ url_for('static', filename = 'js/echarts.min.js') }}"></script>
+  <script src="{{ url_for('static', filename = 'js/index.js') }}"></script>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.js'></script>
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaGFuc2VubDIiLCJhIjoiY2wybG00YnFmMGFjMTNjcG5odjR3dDliNiJ9.AHiJPRMxiwVq2qRYiIbDpA';
+    const map = new mapboxgl.Map({
+      container: document.querySelector(".map .chart"), // container id
+      //style: 'mapbox://styles/hansenl2/cl2oku15c004u14pbg1qhs5sm',
+      style: 'mapbox://styles/hansenl2/cl38opf76000214nzishoyxtz',
+      center: [144.95, -37.85], // starting position [lng, lat]
+      zoom: 10 // starting zoom
+    });
+    map.on('load', () => {
+      // the rest of the code will go in here
+    });
+
+    var histories;
+    function getTotal() {
+      $.ajax({
+        url: "/t1",
+        async: false,
+        success: function (data) {
+          //console.log(data);
+          histories = data.tweet_edu + data.tweet_envir;
+        },
+        error: function () {
+          alert("ajax request failed")
+        }
+      });
+      $("li#history").text(histories);
+    }
+    setInterval("getTotal()", 1000);
+
+    var stream;
+    function getTotal1() {
+      $.ajax({
+        url: "/t2",
+        async: false,
+        success: function (data) {
+          //console.log(data);
+          stream = data.num;
+        },
+        error: function () {
+          alert("ajax request failed")
+        }
+      });
+      $("li#streaming").text(stream);
+    }
+    setInterval("getTotal1()", 1000);
+
+  </script>
+
+</body>
+
+</html>
