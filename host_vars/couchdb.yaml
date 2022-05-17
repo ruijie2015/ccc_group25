@@ -1,0 +1,27 @@
+---
+volumes:
+  - device: /dev/vdb
+    mountpoint: /var/lib/docker
+
+
+couchdb_dir: /usr/local/couchdb
+couchdb_data_dir: '{{ couchdb_dir }}/data'
+
+
+# containers:
+#   - name: couch_master
+#     nodes: "{{ groups['Couch_master'][0] }}"
+
+  
+#   - name: couch_slave1
+#     nodes: "{{ groups['Couch_slave'][0] }}"
+
+  
+#   - name: couch_slave2
+#     nodes: "{{ groups['Couch_slave'][1] }}"
+
+
+     
+couchdb_user: admin
+couchdb_pass: admin
+

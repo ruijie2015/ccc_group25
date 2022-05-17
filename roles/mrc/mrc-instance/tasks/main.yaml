@@ -1,0 +1,88 @@
+---
+- name: Create instances on MRC
+  openstack.cloud.server:
+    name: '{{ item.name }}'
+    image: '{{ instance_image }}'
+    key_name: '{{ instance_key_name }}'
+    flavor: '{{ instance_flavor }}'
+    availability_zone: '{{ availability_zone }}'
+    security_groups: '{{ sg_names }}'
+    volumes: '{{ item.volumes }}'
+    auto_floating_ip: yes
+    wait: yes
+    timeout: 500
+    state: present
+  loop: '{{ instances }}'
+  register: os_instance
+
+- ansible.builtin.debug:
+    msg: "Instance {{ item.openstack.name }} has been created. IP address is {{ item.openstack.public_v4 }}"
+  loop: '{{ os_instance.results }}'
+  when: item.openstack is defined
+
+
+- name: Wait for connection
+  ansible.builtin.wait_for:
+    host: "{{ item.openstack.public_v4 }}"
+    port: 22
+    timeout: 120
+    search_regex: OpenSSH
+  loop: '{{ os_instance.results }}'
+  when: item.openstack is defined
+
+
+- name: Add grouped instances as a new host
+  ansible.builtin.add_host:
+    name: '{{ item.openstack.public_v4 }}'
+    groups: COMP90024
+  loop: '{{ os_instance.results }}'
+  when: item.openstack is defined
+
+
+- name: Update inventory file
+  ansible.builtin.lineinfile:
+    path: COMP90024.ini
+    insertafter: '[COMP90024]'
+    line: "{{ item.openstack.public_v4 }}"
+  loop: "{{ os_instance.results }}"
+  when: item.openstack is defined
+
+- name: Add host for Couchdb
+  ansible.builtin.add_host:
+    name: "{{ groups['COMP90024'][0] }}"
+    groups: Couchdb
+
+
+- name: Update inventory file for Couchdb
+  ansible.builtin.lineinfile:
+    line: "{{ groups['COMP90024'][0] }}"
+    path: Couchdb.ini
+    insertafter: '[Couchdb]'
+    state: present
+
+
+- name: Add host for Tweet
+  ansible.builtin.add_host:
+    name: "{{ groups['COMP90024'][1] }}"
+    groups: Tweet
+
+
+- name: Update inventory file for Tweet
+  ansible.builtin.lineinfile:
+    line: "{{ groups['COMP90024'][1] }}"
+    path: Tweet.ini
+    insertafter: '[Tweet]'
+    state: present
+
+- name: Add host for Web
+  ansible.builtin.add_host:
+    name: "{{ groups['COMP90024'][2] }}"
+    groups: Web
+
+
+- name: Update inventory file for Web
+  ansible.builtin.lineinfile:
+    line: "{{ groups['COMP90024'][2] }}"
+    path: Web.ini
+    insertafter: '[Web]'
+    state: present

@@ -1,0 +1,19 @@
+---
+# - name: Clone git repository
+#   ansible.builtin.git:
+#     repo: https://gitlab.unimelb.edu.au/feit-comp90024/comp90024.git
+#     dest: /home/ubuntu
+
+
+- name: Send folder to mrc
+  copy:
+    src: ~/CCC/Ansible/harvest
+    dest: /home/ubuntu
+
+
+- name: Execute python file
+  command: "python3 /home/ubuntu/harvest/streaming_api.py {{ groups['Couchdb'][0] }}"
+  async: 1000
+  poll: 0
+
+

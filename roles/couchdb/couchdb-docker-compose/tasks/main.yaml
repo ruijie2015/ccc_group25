@@ -1,0 +1,32 @@
+---
+- name: Create couchdb directory
+  become: yes
+  ansible.builtin.file:
+    path: "{{ couchdb_dir }}"
+    owner: "{{ ansible_user }}"
+    group: "{{ ansible_user }}"
+    recurse: yes
+    state: directory
+
+- name: Configure docker compose
+  become: yes
+  ansible.builtin.template:
+    src: docker-compose.yaml.j2
+    dest: "{{ couchdb_dir }}/docker-compose.yaml"
+    owner: "{{ ansible_user }}"
+    group: "{{ ansible_user }}"
+
+
+- name: Start docker container
+  community.docker.docker_container:
+    name: couch_master
+    image: ibmcom/couchdb3:3.2.1
+    state: started
+    restart: yes
+    ports:
+      - "{{ groups['COMP90024'][0] }}:5984:5984"
+    env:
+      COUCHDB_USER: "{{ couchdb_user }}"
+      COUCHDB_PASSWORD: "{{ couchdb_pass }}"
+    
+

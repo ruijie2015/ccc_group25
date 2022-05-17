@@ -1,0 +1,54 @@
+# Common vars
+availability_zone: melbourne-qh2-uom
+instance_image: 356ff1ed-5960-4ac2-96a1-0c0198e6a999
+instance_key_name: hanson
+instance_flavor: uom.mse.2c9g
+
+# Volume
+volumes:
+  - vol_name: vol-couchdb
+    vol_size: 20
+  - vol_name: vol-tweet
+    vol_size: 20
+  - vol_name: vol-web
+    vol_size: 20
+ 
+
+# Security group
+security_groups:
+  - name: new_ssh
+    description: "security group for connection between nodes"
+    protocol: tcp
+    port_range_min: 22
+    port_range_max: 22
+    remote_ip_prefix: 0.0.0.0/0
+  - name: new_http
+    description: "security group for web connection"
+    protocol: tcp
+    port_range_min: 80
+    port_range_max: 80
+    remote_ip_prefix: 0.0.0.0/0
+  - name: new_couchdb
+    description: "security group for database connection"
+    protocol: tcp
+    port_range_min: 5984
+    port_range_max: 5984
+    remote_ip_prefix: 0.0.0.0/0
+  - name: new_web
+    description: "security group for web connection"
+    protocol: tcp
+    port_range_min: 5000
+    port_range_max: 5000
+    remote_ip_prefix: 0.0.0.0/0
+
+# Instance
+instances:
+  - name: couchdb_node
+    volumes: ['vol-couchdb']
+  - name: tweet_node
+    volumes: ['vol-tweet']
+  - name: web_node
+    volumes: ['vol-web']
+  
+
+

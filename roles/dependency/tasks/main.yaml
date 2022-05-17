@@ -1,0 +1,33 @@
+---
+# Install dependencies on instances
+- name: Install pip
+  become: yes
+  ansible.builtin.apt:
+    name: ['python3-dev', 'python3-setuptools', 'python3-pip']
+    state: latest
+    update_cache: yes
+  when: ansible_distribution == "Ubuntu"
+
+- name: Update pip
+  become: yes
+  ansible.builtin.pip:
+    name: ['pip', 'openstacksdk', 'argparse', 'pandas', 'geopandas', 'shapely', 'couchdb']
+    state: latest
+
+- name: Pip install tweepy
+  become: yes
+  ansible.builtin.pip:
+    name: tweepy
+    version: 3.10.0
+    state: present
+    editable: false
+
+
+- name: Pip install flask
+  become: yes
+  ansible.builtin.pip:
+    name: flask
+    version: 2.0.2
+    state: present
+    editable: false
+

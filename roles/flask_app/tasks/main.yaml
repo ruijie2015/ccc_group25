@@ -1,0 +1,10 @@
+---
+- name: Send web file to mrc
+  copy:
+    src: ~/CCC/Ansible/web
+    dest: /home/ubuntu
+
+- name: Execute web app
+  command: "python3 /home/ubuntu/web/app.py {{ groups['Couchdb'][0] }}"
+  async: 1000
+  poll: 0
